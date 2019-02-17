@@ -31,6 +31,7 @@ public class JUnitPracticeTest {
 	@Test
 	public void test1() {
 		System.out.println("\t1st Test Case");
+		System.out.println("JUnit complete");
 	}
 	
 	@Test
